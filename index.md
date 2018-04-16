@@ -1,8 +1,10 @@
 ### Welcome to my Game Development Project page
 
 You can use the [editor on GitHub](https://github.com/Mindengine76/Mindengine76.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+
 ### Who am I?
 Scott Calvert studying BSC computer science for Game development
+
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
