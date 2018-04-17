@@ -12,6 +12,11 @@ very intrigued by the social and psychological effects computer science and game
 Personally I don't play computer games, but I do enjoy building them. I am also interested in electronics and robotic,
 but am also very new to this field. 
 
+## Current project(s)
+- DarkWorld (RPG)[Link]
+- Sapphire tears (couch co-op)[Link]
+
+
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
