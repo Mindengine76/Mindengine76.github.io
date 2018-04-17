@@ -9,8 +9,7 @@ students I had no background in programming prior to beginning the course 8 mont
 I am very interested in 'gamification' and the application of computer science in education and e-health. I am also 
 very intrigued by the social and psychological effects computer science and games have on individuals and societies. 
 
-Personally I don't play computer games, but I do enjoy building them. I am also interested in electronics and robotic,
-but am also very new to this field. 
+Personally I don't play computer games, but I do enjoy building them. I am also interested in electronics and robotics. 
 
 ## Current project(s)
 - DarkWorld (RPG)[Link]
